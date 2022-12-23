@@ -5,7 +5,7 @@
 
 3- cd to the location of the game
 
-4- write python and file name.py
+4- write python and file name.py => "python main.py"
 
 5- Enjoy the game ^^
 
